@@ -4,7 +4,7 @@
 <img src="https://thumbs.gfycat.com/ImportantSafeBoutu-size_restricted.gif">
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=yoihenkenh&show_icons=true&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=yoihenken&show_icons=true&theme=tokyonight)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=yoihenken&layout=compact&theme=radical)
 
